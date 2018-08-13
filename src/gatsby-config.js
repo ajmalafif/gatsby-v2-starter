@@ -1,7 +1,7 @@
 // In your gatsby-config.js
 plugins: [
   {
-    resolve: `gatsby-plugin-manifest`,
+    resolve: 'gatsby-plugin-manifest',
     options: {
       name: 'ajmalafif',
       short_name: 'ajmalafif',
@@ -11,5 +11,6 @@ plugins: [
       display: 'minimal-ui',
       icon: 'src/images/icon.png', // This path is relative to the root of the site.
     }
-  }
+  },
+  'gatsby-plugin-offline'
 ]
