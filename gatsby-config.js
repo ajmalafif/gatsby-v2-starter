@@ -3,8 +3,8 @@ plugins: [
   {
     resolve: 'gatsby-plugin-manifest',
     options: {
-      name: 'ajmalafif',
-      short_name: 'ajmalafif',
+      name: 'Ajmal Afif',
+      short_name: 'Ajmal Afif',
       start_url: '/',
       background_color: '#fff',
       theme_color: '#05f',
