@@ -8,12 +8,12 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "next",
-    "gatsby-plugin-manifest": "^1.0.27",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "gatsby": "^2.0.0-beta.98",
+    "gatsby-plugin-manifest": "^2.0.2-beta.5",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
   },
   "devDependencies": {
-    "gatsby-plugin-offline": "^1.0.18"
+    "gatsby-plugin-offline": "next"
   }
 }
