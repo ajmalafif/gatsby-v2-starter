@@ -10,10 +10,8 @@
   "dependencies": {
     "gatsby": "^2.0.0-beta.98",
     "gatsby-plugin-manifest": "^2.0.2-beta.5",
+    "gatsby-plugin-offline": "^2.0.0-beta.9",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
-  },
-  "devDependencies": {
-    "gatsby-plugin-offline": "next"
   }
 }
