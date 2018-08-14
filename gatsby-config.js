@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://gatsby-v2-starter.netlify.com',
-    title: 'Ajmal Afif\'s personal website 👨🏻‍💻'
+    title: 'Gatsby v2 Starter',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
